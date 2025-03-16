@@ -32,4 +32,8 @@ Creating retail banking code
 stage{
 
 	step ("retil banking");
+<<<<<<< HEAD
 } 
+=======
+} 
+>>>>>>> 572e890cbfb821e0d5f25d76e50954719b54ef2b
